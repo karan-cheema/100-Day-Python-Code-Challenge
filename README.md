@@ -1,4 +1,4 @@
 # 100-Day-Python-Code-Challenge
 
-#Challenges
+# Challenges
 - Challenge 1 - Band Name Generator
