@@ -2,3 +2,4 @@
 
 # Challenges
 - Challenge 1 - Band Name Generator
+- Challenge 2 -  Tip Calculator
