@@ -7,4 +7,4 @@
 - Challenge 4 - Rock, Papers and Scissors
 - Challenge 5 - PyPassword Generator
 - Challenge 6 - Reeborg's Maze - Completed 
-- Challenge 7 - Hangman
+- Challenge 7 - Hangman - Postponed 
