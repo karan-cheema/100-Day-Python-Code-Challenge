@@ -9,4 +9,4 @@
 | 4 | Rock, Papers and Scissors | Completed |
 | 5 | PyPassword Generator | Completed |
 | 6 | Reeborg's Maze | Completed | 
-| 7 | Hangman | In Process | 
+| 7 | Hangman | Completed | 
