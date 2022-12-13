@@ -10,3 +10,4 @@
 | 5 | PyPassword Generator | Completed |
 | 6 | Reeborg's Maze | Completed | 
 | 7 | Hangman | Completed | 
+| 8 | Caesar Cypher | In Process |
