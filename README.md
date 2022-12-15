@@ -1,6 +1,6 @@
 # 100-Day-Python-Code-Challenge
 
-# Challenges
+# Challenges - Beginner
 | S. No | Program Name | Status |
 |-------|--------------|--------|
 | 1 | Band Name Generator | Completed |
