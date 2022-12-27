@@ -11,4 +11,4 @@
 | 6 | Reeborg's Maze | Completed | 
 | 7 | Hangman | Completed | 
 | 8 | Caesar Cypher | Completed |
-| 9 | Secret Auction | Resumed |
+| 9 | Secret Auction | Completed |
